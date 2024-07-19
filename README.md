@@ -3,7 +3,7 @@
 ## Description
 
 This project presents data related to online Order food consumption. 
-It includes a SQLite database (`**onlinefood.db**`) and a Flask application that interacts with this database to provide a web interface for data records.
+It includes a SQLite database **(`onlinefood.db`)** and a Flask application that interacts with this database to provide a web interface for data records.
 
 1.In this Project in **Database/DbConnection.ipynb** file, connection with db "onlinefood.db" has been created, table created on it and Insert the data from **onlinefood.csv** file using pandas, Dataframe.
 
