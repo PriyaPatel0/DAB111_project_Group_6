@@ -10,7 +10,9 @@ It includes a SQLite database (`**onlinefood.db**`) and a Flask application that
 2.Further, a Web Interface has been created Under Website Folder using file app.ipynb. In this all necssary routes has been created with logics to implement the data and  for navigate to tabs **(Home, About, Data) **
 
 **Index.html**: Home Page of Online Food Order Data Project.
+
 **About.html**: Display the information and description of the Online Order Food Data.
+
 **Data.html**: Displays all thhe records of data i.e., Id, Age , Gender, Occupation, etc
 
 
