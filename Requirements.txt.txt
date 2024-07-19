@@ -1,0 +1,22 @@
+Below mentioned are the libraries to import and commands to install--
+
+1. Import Sqlite3
+
+2. Install Pandas
+
+Cmd - pip install pandas
+
+3. Install Flask
+
+cmd - pip install Flask
+
+4. Install Werkzeug
+
+cmd - pip install Werkzeug
+
+
+OR
+
+To install the packages in this "requirement.txt" file, use the following command:
+
+pip install -r requirements.txt
