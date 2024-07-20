@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>About</h1>
+<p>The source of the data is the database named onlinefood.db.</p>
+<h2>Variable Definitions</h2>
+<ul>
+    {% for variable, definition in variable_definitions.items() %}
+        <li><strong>{{ variable }}:</strong> {{ definition }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
